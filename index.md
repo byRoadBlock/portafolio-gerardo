@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 
-## Sobre mí
+## Sobre mí - Profesional
 
 Soy un desarrollador Full Stack con experiencia en Flutter, Node.js, SQL Server, entre otras tecnologías.
 
